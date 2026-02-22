@@ -27,7 +27,7 @@ tabWidth = 4
 post = "/post/:year/:month/:day/:slug/"
 
 [[menu.main]]
-name = "Categories"
+name = "Writing"
 url = "/categories/"
 weight = 1
 [[menu.main]]
@@ -35,8 +35,8 @@ name = "Tags"
 url = "/tags/"
 weight = 2
 [[menu.feed]]
-name = "Subscribe"
-url = "/index.xml"
+name = "CV"
+url = "/files/yhashem_cv.pdf"
 
 [params]
 custom_css = ["css/theme-override.css"]
