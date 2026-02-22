@@ -1,95 +1,31 @@
 @import url('https://rsms.me/inter/inter.css');
-@import url('https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
-
-/* Cooper Hewitt (sans serif) fonts */
-@font-face {
-  font-family: 'Cooper Hewitt';
-  src: url('../fonts/CooperHewitt-Medium.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-}
-@font-face {
-  font-family: 'Cooper Hewitt';
-  src: url('../fonts/CooperHewitt-Bold.woff') format('woff');
-  font-weight: bold;
-  font-style: normal;
-}
-@font-face {
-  font-family: 'Cooper Hewitt';
-  src: url('../fonts/CooperHewitt-BoldItalic.woff') format('woff');
-  font-weight: bold;
-  font-style: italic;
-}
-@font-face {
-  font-family: 'Cooper Hewitt';
-  src: url('../fonts/CooperHewitt-MediumItalic.woff') format('woff');
-  font-weight: normal;
-  font-style: italic;
-}
-@font-face {
-  font-family: 'Cooper Hewitt';
-  src: url('../fonts/CooperHewitt-Light.woff') format('woff');
-  font-weight: lighter;
-  font-style: normal;
-}
-@font-face {
-  font-family: 'Cooper Hewitt';
-  src: url('../fonts/CooperHewitt-LightItalic.woff') format('woff');
-  font-weight: lighter;
-  font-style: normal;
-}
-
-/* Charter (serif) fonts */
-@font-face {
-  font-family: Charter;
-  src: url('../fonts/charter_regular.woff2') format('woff2');
-  font-weight: normal;
-  font-style: normal;
-}
-@font-face {
-  font-family: Charter;
-  src: url('../fonts/charter_bold.woff2') format('woff2');
-  font-weight: bold;
-  font-style: normal;
-}
-@font-face {
-  font-family: Charter;
-  src: url('../fonts/charter_bold_italic.woff2') format('woff2');
-  font-weight: bold;
-  font-style: italic;
-}
-@font-face {
-  font-family: Charter;
-  src: url('../fonts/charter_italic.woff2') format('woff2');
-  font-weight: normal;
-  font-style: italic;
-}
-
-
-.article-meta, .menu a { font-family:
-        'Cooper Hewitt',
+html { font-family:
+        'Inter',
         sans-serif,
-        'Segoe UI Emoji',
         'Apple Color Emoji',
+        'Segoe UI Emoji',
         'Segoe UI Symbol';
       }
-
-html, header {
-  font-family:
-    Charter,
-    "Century Schoolbook",
-    serif,
-    "Segoe UI Emoji",
-    "Apple Color Emoji",
-    "Segoe UI Symbol"
+@supports (font-variation-settings: normal) {
+  html { font-family:
+          'Inter var',
+          sans-serif,
+          'Apple Color Emoji',
+          'Segoe UI Emoji',
+          'Segoe UI Symbol';
+        }
 }
 
 code {
   font-family:
-    "Space Mono"
-    monospace,
-    "Segoe UI Emoji",
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Helvetica,
+    Arial,
+    sans-serif,
     "Apple Color Emoji",
+    "Segoe UI Emoji",
     "Segoe UI Symbol";
   font-size: 85%;
 }
