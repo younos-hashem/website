@@ -2,6 +2,7 @@
 title: Markdown Guide (modified)
 author: Open Source
 date: '2018-08-30'
+math: true
 categories:
   - Example
 tags:
