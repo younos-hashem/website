@@ -1,4 +1,4 @@
-baseurl = "https://younos-hashem.github.io/website/"
+baseurl = "https://younos.me/"
 enableEmoji = true
 footnotereturnlinkcontents = "↩"
 # googleAnalytics = ""
@@ -42,6 +42,10 @@ weight = 1
 name = "Tags"
 url = "/tags/"
 weight = 2
+[[menu.main]]
+name = "End Malaria"
+url = "/malaria/"
+weight = 3
 [[menu.feed]]
 name = "CV"
 url = "/files/yhashem_cv.pdf"
