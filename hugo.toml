@@ -3,7 +3,7 @@ enableEmoji = true
 footnotereturnlinkcontents = "↩"
 # googleAnalytics = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
-languageCode = "en-us"
+locale = "en-us"
 theme = "hugo-classic"
 title = "Younos Hashem"
 
@@ -50,3 +50,7 @@ url = "/files/yhashem_cv.pdf"
 custom_css = ["css/theme-override.css"]
 description = "A simple, minimal blog for those who love text."
 footer = " [Github](https://github.com/younos-hashem) | [LinkedIn](https://linkedin.com/in/younos-hashem) | [Google Scholar](https://scholar.google.com/citations?user=wh8WbvMAAAAJ&hl=en&oi=ao)"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
