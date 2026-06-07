@@ -1,11 +1,10 @@
----
-date: '2026-05-28'
-draft: false
-title: 'Grad School Application Retrospective'
-slug: 'grad-apps'
-tags:
-    - academia
----
++++
+date = '2026-05-28'
+draft = false
+title = 'Grad School Application Retrospective'
+slug = 'grad-apps'
+tags = ['academia']
++++
 
 Like most of my senior-year peers in Georgia Tech physics, I spent a good part of this past fall semester applying to graduate programs.
 This was a historically tough application cycle (more on this later), and my own applications were a little unconventional, so I want to spend some time going over them and discussing the broader circumstances.

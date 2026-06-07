@@ -1,10 +1,9 @@
----
-date: '2026-05-27T01:22:51-04:00'
-draft: true
-title: 'What Is a Ph.D. For?'
-tags:
-    - academia
----
++++
+date = '2026-05-27T01:22:51-04:00'
+draft = true
+title = 'What Is a Ph.D. For?'
+tags = ['academia']
++++
 
 Recently, I read [a post](https://ehrmanblog.org/being-qualified-to-write-a-scholarly-book/) on the blog of biblical scholar Bart Ehrman on the subject of being qualified to write a scholarly book.
 In the post, he details the grueling process of obtaining a Ph.D. in a "fairly typical" program.
