@@ -8,14 +8,14 @@ tags:
 ---
 
 Like most of my senior-year peers in Georgia Tech physics, I spent a good part of this past fall semester applying to graduate programs.
-This was a historically tough application cycle (more on this later), any my own applications were a little unconventional, so I want to spend some time going over them and discussing the broader circumstances.
+This was a historically tough application cycle (more on this later), and my own applications were a little unconventional, so I want to spend some time going over them and discussing the broader circumstances.
 
 My Applications
 ---
 Even though I'm a physics major, most of my research experience is actually in computational chemistry, comprising about two years total by the time of application submission.
 Also, about a year ago, I began to get interested in computational and theoretical neuroscience, and I decided to pursue this as a potential avenue as well.
 As a result partially of my indecisiveness and partially of my lack of confidence in my ability to get into fields outside my primary one, I spread out my applications over 13 programs: 5 in physics, 3 in chemistry<sup>1</sup>{{< sidenote >}}1\. I originally had two more in chemistry, UC Berkeley and Northwestern, but I dropped these when I discovered shortly before the application deadline that they required the general GRE.{{< /sidenote >}}, and 5 in neuroscience.
-Out of the 13 programs I applied to, I was accepted to one (Stony Brook physics) and rejected by the other 13 (five of these after interviews).
+Out of the 13 programs I applied to, I was accepted to one (Stony Brook physics) and rejected by the other 12 (five of these after interviews).
 Here are some relevant details of my profile:
 1. **GPA:** 4.0.
 2. **Research:** 2 years in computational chemistry research; 1 first-author publication in the *Journal of Chemical Theory and Computation*.
@@ -28,7 +28,7 @@ Overall, I think I have a solid profile, but there are three main things holding
 First, as mentioned, my statements of purpose could have used some improvement; in hindsight, I should have showed more passion and understanding of the relevant field(s).
 Second, in terms of fit, my application was geared towards computational methods development in condensed matter physics. My sense is that most of the "serious"/heavy computational methods development in physics is in fields like astrophysics and high energy physics, whereas condensed matter physics software development is more incidental to applied work.
 Finally, my recommendations are less than ideal&zwj;---I'm not sure how much the physics and chemistry programs care about a neuroscientist's recommendation, and vice versa. This is probably the greatest factor holding me back.
-I also am not the greatest in interviews, but this is obviously not a factor for the eight programs that denied me without an interview.
+I also am not the greatest in interviews, but this is obviously not a factor for the seven programs that denied me without an interview.
 
 Broader Landscape
 ---
