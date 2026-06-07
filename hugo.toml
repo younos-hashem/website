@@ -33,8 +33,7 @@ noClasses = true
 style = "monokai"
 tabWidth = 4
 
-[permalinks]
-post = "/writing/:year/:month/:day/:slug/"
+
 
 [[menu.main]]
 name = "Writing"
