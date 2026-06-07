@@ -1,7 +1,7 @@
 +++
 title = "Writing"
 url = "/writing/"
-ouputs = ["html", "rss"]
+outputs = ["html", "rss"]
 +++
 
 ---
