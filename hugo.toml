@@ -4,6 +4,8 @@ footnotereturnlinkcontents = "↩"
 # googleAnalytics = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 locale = "en-us"
+languageCode = "en-us"
+copyright = "2026 Younos Hashem"
 theme = "hugo-classic"
 title = "Younos Hashem"
 
@@ -51,10 +53,19 @@ name = "CV"
 url = "/files/yhashem_cv.pdf"
 
 [params]
-custom_css = ["css/theme-override.css"]
-description = "A simple, minimal blog for those who love text."
-footer = " [Github](https://github.com/younos-hashem) | [LinkedIn](https://linkedin.com/in/younos-hashem) | [Google Scholar](https://scholar.google.com/citations?user=wh8WbvMAAAAJ&hl=en&oi=ao)"
+  custom_css = ["css/theme-override.css"]
+  description = "A simple, minimal blog for those who love text."
+  footer = " [Github](https://github.com/younos-hashem) | [LinkedIn](https://linkedin.com/in/younos-hashem) | [Google Scholar](https://scholar.google.com/citations?user=wh8WbvMAAAAJ&hl=en&oi=ao)"
+  [params.author]
+    email = "younos.hashem@stonybrook.edu"
+    name = "Younos Hashem"
 
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[outputs]
+home = ["html"]
+section = ["html"]
+taxonomy = ["html"]
+term = ["html"]

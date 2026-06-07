@@ -1,6 +1,7 @@
----
-title: Writing
-url: "/writing/"
----
++++
+title = "Writing"
+url = "/writing/"
+ouputs = ["html", "rss"]
++++
 
 ---
