@@ -64,7 +64,7 @@ url = "/files/yhashem_cv.pdf"
     dir = ':cacheDir/images'
 
 [outputs]
-home = ["html"]
-section = ["html"]
+home = ["html", "rss"]
+section = ["html", "rss"]
 taxonomy = ["html"]
 term = ["html"]
