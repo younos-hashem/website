@@ -35,18 +35,15 @@ tabWidth = 4
 
 
 
+
 [[menu.main]]
 name = "Writing"
 url = "/writing/"
-weight = 1
-[[menu.main]]
-name = "Tags"
-url = "/tags/"
-weight = 2
+weight = 10
 [[menu.main]]
 name = "End Malaria"
 url = "/malaria/"
-weight = 3
+weight = 20
 [[menu.feed]]
 name = "CV"
 url = "/files/yhashem_cv.pdf"
@@ -54,7 +51,11 @@ url = "/files/yhashem_cv.pdf"
 [params]
   custom_css = ["css/theme-override.css"]
   description = "A simple, minimal blog for those who love text."
-  footer = " [Github](https://github.com/younos-hashem) | [LinkedIn](https://linkedin.com/in/younos-hashem) | [Google Scholar](https://scholar.google.com/citations?user=wh8WbvMAAAAJ&hl=en&oi=ao)"
+  footer = """\
+  [Github](https://github.com/younos-hashem) \
+  | [LinkedIn](https://linkedin.com/in/younos-hashem) \
+  | [Google Scholar](https://scholar.google.com/citations?user=wh8WbvMAAAAJ&hl=en&oi=ao) \
+  | [About the site](/about/)"""
   [params.author]
     email = "younos.hashem@stonybrook.edu"
     name = "Younos Hashem"
