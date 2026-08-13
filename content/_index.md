@@ -15,15 +15,6 @@ You can reach me at [younos.hashem@stonybrook.edu](mailto:younos.hashem@stonybro
 
 <img src="/images/partywizard.gif">
 
-## Interests
-
-Outside of physics, I have a range of interests that change over time. Currently, I am most interested in:
-- Religion
-  - Textual criticism and historical-critical scholarship of the New Testament and Qur’an
-  - Catholicism
-  - Buddhism
-- Home networking
-
 ---
 
 ## Musings
