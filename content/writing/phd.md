@@ -1,5 +1,5 @@
 +++
-date = '2026-06-14'
+date = '2026-06-23T16:22:56-04:00'
 draft = false
 title = 'What Is a Ph.D. For?'
 tags = ['academia']
