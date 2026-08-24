@@ -1,6 +1,6 @@
 +++
 date = '2026-08-23T20:52:27-04:00'
-draft = false
+draft = true
 title = 'The Promise and Perils of Technology'
 +++
 

@@ -50,7 +50,7 @@ url = "/files/yhashem_cv.pdf"
 
 [params]
   custom_css = ["css/theme-override.css"]
-  description = "A simple, minimal blog for those who love text."
+  description = "Younos Hashem's personal site."
   footer = """\
   [Github](https://github.com/younos-hashem) \
   | [LinkedIn](https://linkedin.com/in/younos-hashem) \
